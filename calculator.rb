@@ -1,4 +1,3 @@
 # Add your variables here
 
-
-num1 = 2
+first_number = 2
